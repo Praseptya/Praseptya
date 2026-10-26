@@ -1,8 +1,7 @@
 <div align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&pause=1300&duration=2500&color=8f7903&vCenter=true&width=530&lines=Hai,+Saya+Muhamad+Arya+Praseptya+👋" alt="Typing SVG" /></a>
   <p><i>Software Engineer | Web & Mobile App Developer</i></p>
-  
-  <br>
+
   <a href="mailto:m.arya.praseptya@gmail.com"><img src="https://img.shields.io/badge/Email-0f172a?style=flat-square&logo=gmail&logoColor=FFD700" alt="Email" /></a>
   <a href="https://www.linkedin.com/in/praseptyaa/"><img src="https://img.shields.io/badge/LinkedIn-0f172a?style=flat-square&logo=linkedin&logoColor=FFD700" alt="LinkedIn" /></a>
   <a href="https://praseptya-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-0f172a?style=flat-square&logo=vercel&logoColor=FFD700" alt="Portfolio" /></a>
@@ -17,15 +16,15 @@
 * 🚀 Berpengalaman membangun sistem *budgeting* perusahaan, aplikasi media sosial berbasis mobile, hingga riset *speech recognition*.
 * 🎨 Mengedepankan performa kode dengan balutan UI/UX minimalis.
 
-<br>
-## 💻🛠️ Tech Stack & Tools
+---
+
+### 🛠️ Tech Stack & Tools
 <div align="left">
   <p><b>Bahasa & Framework</b></p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,typescript,php,laravel,react,nodejs,python,flutter,dart&theme=dark&perline=10" alt="Tech Stack" />
   </a>
-  
-  <br>
+
   
   <p><b>Tools & Deployment</b></p>
   <a href="https://skillicons.dev">
