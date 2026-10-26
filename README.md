@@ -22,14 +22,14 @@
 <div align="left">
   <p><b>Bahasa & Framework</b></p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,php,python,flutter,dart,tailwind,firebase&theme=dark&perline=10" alt="Tech Stack" />
+    <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,typescript,php,laravel,react,nodejs,python,flutter,dart&theme=dark&perline=10" alt="Tech Stack" />
   </a>
   
   <br>
   
   <p><b>Tools & Deployment</b></p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,vercel,mysql&theme=dark&perline=10" alt="Tools" />
+    <img src="https://skillicons.dev/icons?i=mysql,firebase,git,github,vscode,figma,vercel&theme=dark&perline=10" alt="Tools" />
   </a>
 </div>
 
