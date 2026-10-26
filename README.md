@@ -1,5 +1,5 @@
 <div align="center">
-  <h2>Hai, saya Muhamad Arya Praseptya 👋</h2>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&pause=1300&duration=2500&color=8f7903&vCenter=true&width=530&lines=Hai,+Saya+Muhamad+Arya+Praseptya+👋" alt="Typing SVG" /></a>
   <p><i>Software Engineer | Web & Mobile App Developer</i></p>
   
   <br>
@@ -18,7 +18,7 @@
 * 🎨 Mengedepankan performa kode dengan balutan UI/UX minimalis.
 
 <br>
-### 🛠️ Tech Stack & Tools
+## 💻🛠️ Tech Stack & Tools
 <div align="left">
   <p><b>Bahasa & Framework</b></p>
   <a href="https://skillicons.dev">
