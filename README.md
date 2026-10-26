@@ -1,25 +1,30 @@
 <div align="center">
-
-<img src="assets/banner.svg" alt="Muhamad Arya Praseptya, Software Engineer" width="100%">
-
+  <h1>Hi, saya Arya! 👋</h1>
+  <h3>Full-Stack Web & Mobile Developer</h3>
+  
+  <p>
+    <a href="mailto:email_anda@gmail.com"><img src="https://img.shields.io/badge/Email-000080?style=for-the-badge&logo=gmail&logoColor=FFD700" alt="Email"/></a>
+    <a href="LINK_LINKEDIN_ANDA"><img src="https://img.shields.io/badge/LinkedIn-000080?style=for-the-badge&logo=linkedin&logoColor=FFD700" alt="LinkedIn"/></a>
+    <a href="LINK_PORTFOLIO_ANDA"><img src="https://img.shields.io/badge/Portfolio-000080?style=for-the-badge&logo=dev.to&logoColor=FFD700" alt="Portfolio"/></a>
+  </p>
 </div>
 
-Software engineer lulusan Ilmu Komputer yang membangun web dengan Laravel dan aplikasi mobile dengan Flutter. Proyek terbaru saya, **LingoJoy**, adalah aplikasi latihan pelafalan yang model speech recognition-nya berjalan offline di ponsel.
+---
 
-Terbuka untuk peran software engineer entry-level.
+**Tentang Saya**
+* 🎓 Fresh graduate S1 Ilmu Komputer yang antusias mengeksplorasi teknologi baru.
+* 💻 Fokus pada **Full-Stack Web Development** dan **Mobile App Development**.
+* 🚀 Berpengalaman membangun sistem *budgeting* perusahaan, aplikasi media sosial berbasis mobile, hingga riset *speech recognition*.
+* 🎨 Mengedepankan performa kode dengan balutan UI/UX minimalis.
 
-<br>
+**Tech Stack**
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,tailwind,js,php,python,flutter,dart,firebase&theme=dark" alt="Arya Tech Stack" />
+  </a>
+</p>
 
-## Teknologi
-
-<img src="assets/stack.svg" alt="PHP, Laravel, JavaScript, Dart, Flutter, Python, MySQL, SQLite, Firebase, Figma, Git, GitHub" width="100%">
-
-<br>
-
-## Kontak
-
-<a href="mailto:m.arya.praseptya@gmail.com"><img src="assets/btn-email.svg" alt="Email"></a>
-&nbsp;
-<a href="https://www.linkedin.com/in/praseptyaa"><img src="assets/btn-linkedin.svg" alt="LinkedIn"></a>
-&nbsp;
-<a href="https://praseptya-portfolio.vercel.app"><img src="assets/btn-portfolio.svg" alt="Portfolio"></a>
+**GitHub Analytics**
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=Praseptya&show_icons=true&theme=transparent&hide_border=true&title_color=FFD700&icon_color=FFD700&text_color=a9a9b3" alt="Praseptya GitHub Stats" />
+</p>
