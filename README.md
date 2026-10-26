@@ -13,7 +13,7 @@
 
 **Tentang Saya**
 * 🎓 Fresh graduate S1 Ilmu Komputer yang antusias mengeksplorasi teknologi baru.
-* 💻 Fokus pada **Full-Stack Web Development** dan **Mobile App Development**.
+* 💻 Fokus pada **Web Development** dan **Mobile App Development**.
 * 🚀 Berpengalaman membangun sistem *budgeting* perusahaan, aplikasi media sosial berbasis mobile, hingga riset *speech recognition*.
 * 🎨 Mengedepankan performa kode dengan balutan UI/UX minimalis.
 
