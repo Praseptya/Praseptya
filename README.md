@@ -3,9 +3,9 @@
   <p><i>Software Engineer | Web & Mobile App Developer</i></p>
   
   <br>
-  <a href="mailto:email_anda@gmail.com"><img src="https://img.shields.io/badge/Email-0f172a?style=flat-square&logo=gmail&logoColor=FFD700" alt="Email" /></a>
-  <a href="LINK_LINKEDIN_ANDA"><img src="https://img.shields.io/badge/LinkedIn-0f172a?style=flat-square&logo=linkedin&logoColor=FFD700" alt="LinkedIn" /></a>
-  <a href="LINK_PORTFOLIO_ANDA"><img src="https://img.shields.io/badge/Portfolio-0f172a?style=flat-square&logo=vercel&logoColor=FFD700" alt="Portfolio" /></a>
+  <a href="mailto:m.arya.praseptya@gmail.com"><img src="https://img.shields.io/badge/Email-0f172a?style=flat-square&logo=gmail&logoColor=FFD700" alt="Email" /></a>
+  <a href="https://www.linkedin.com/in/praseptyaa/"><img src="https://img.shields.io/badge/LinkedIn-0f172a?style=flat-square&logo=linkedin&logoColor=FFD700" alt="LinkedIn" /></a>
+  <a href="https://praseptya-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-0f172a?style=flat-square&logo=vercel&logoColor=FFD700" alt="Portfolio" /></a>
 </div>
 
 
